@@ -1,5 +1,3 @@
-![Me](0.jpeg)
-
 🏡 Palakkad, Kerala 679303
 
 📞 +91 9446079654
@@ -49,11 +47,6 @@ JDT Islam College of Arts and Science
 
 ## 🤸 Skills and Competences
 
-#### Languages Spoken
-English, Hindi, malayalam
-
-#### Technology Skills
-
 **Web technologies**
 : HTML, CSS, JS, Bootstrap, `React.js`, `Redux`
 
@@ -65,6 +58,9 @@ English, Hindi, malayalam
 
 **Code version control**
 : git
+
+**Languages Spoken**
+: English, Hindi, malayalam
 
 ---
 
