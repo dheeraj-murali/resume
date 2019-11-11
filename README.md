@@ -49,9 +49,10 @@ JDT Islam College of Arts and Science
 
 ## 🤸 Skills and Competences
 
-**Languages Spoken** : English, Hindi, malayalam
+#### Languages Spoken
+: English, Hindi, malayalam
 
-**Technology Skills**
+#### Technology Skills
 
 **Web technologies**
 : HTML, CSS, JS, Bootstrap, `React.js`, `Redux`
