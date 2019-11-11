@@ -50,7 +50,7 @@ JDT Islam College of Arts and Science
 ## 🤸 Skills and Competences
 
 #### Languages Spoken
-: English, Hindi, malayalam
+English, Hindi, malayalam
 
 #### Technology Skills
 
