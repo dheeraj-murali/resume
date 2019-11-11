@@ -40,10 +40,10 @@ An aspiring Web developer, who loves creating fast and easy to use web applicati
 
 ## 🎓 Education and Training
 
-> **Bachelor of Computer Applications** <br>
-> 2013 - 2106 <br>
-> Univercity of Calicut <br>
-> JDT Islam College of Arts and Science
+#### **Bachelor of Computer Applications** <br>
+2013 - 2106 <br>
+Univercity of Calicut <br>
+JDT Islam College of Arts and Science
 
 ---
 
