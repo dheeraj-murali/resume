@@ -1,10 +1,12 @@
-Palakkad, Kerala 679303
-+91 9446079654
-410dheeraj@gmail.com
+🏡 Palakkad, Kerala 679303
+
+📞 +91 9446079654
+
+📧 410dheeraj@gmail.com
 
 ---
 
-## Work Experience
+## 🖥 Work Experience
 
 | **Company Name**    | Tata Consultancy Services                                      |
 | ------------------- | -------------------------------------------------------------- |
@@ -14,7 +16,7 @@ Palakkad, Kerala 679303
 
 ---
 
-## Education and Training
+## 🎓 Education and Training
 
 | **Qualification** | Bachelor of Computer Applications     |
 | ----------------- | ------------------------------------- |
@@ -24,7 +26,7 @@ Palakkad, Kerala 679303
 
 ---
 
-## Skills and Competences
+## 🤸 Skills and Competences
 
 | **Languages Spoken**  | English, Hindi, malayalam                                              |
 | --------------------- | ---------------------------------------------------------------------- |
