@@ -36,24 +36,27 @@ An aspiring Web developer, who loves creating fast and easy to use web applicati
 > Intern <br>
 > Django MongoDB Developer
 
+---
+
 ## 🎓 Education and Training
 
-| **Qualification** | Bachelor of Computer Applications     |
-| ----------------- | ------------------------------------- |
-| **Dates**         | 2013 - 2106                           |
-| **Univercity**    | Univercity of Calicut                 |
-| **Institution**   | JDT Islam College of Arts and Science |
+> **Bachelor of Computer Applications** <br>
+> 2013 - 2106 <br>
+> Univercity of Calicut <br>
+> JDT Islam College of Arts and Science
 
 ---
 
 ## 🤸 Skills and Competences
 
-| **Languages Spoken**  | English, Hindi, malayalam                                              |
-| --------------------- | ---------------------------------------------------------------------- |
-| **Technology Skills** | - **Web technologies** : HTML, CSS, JS, Bootstrap, `React.js`, `Redux` |
-|                       | - **Frameworks** : Angular 6, Electron, Ionic                          |
-|                       | - **Development tools** : VS Code, Atom                                |
-|                       | - **Code version control** : git                                       |
+> **Languages Spoken** : English, Hindi, malayalam
+
+| **Technology Skills**    |                                               |
+| ------------------------ | --------------------------------------------- |
+| **Web technologies**     | HTML, CSS, JS, Bootstrap, `React.js`, `Redux` |
+| **Frameworks**           | Angular 6, Electron, Ionic                    |
+| **Development tools**    | VS Code, Atom                                 |
+| **Code version control** | git                                           |
 
 ---
 
