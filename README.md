@@ -12,7 +12,7 @@
 | ------------------- | -------------------------------------------------------------- |
 | **Dates**           | September 2016 - Present                                       |
 | **Position**        | Systems Engineer                                               |
-| **Responsiblities** | Develop Flexibe and customizable UI in **React** and **Redux** |
+| **Responsiblities** | Develop Flexibe and customizable UI in **`React`** and **`Redux`** |
 
 ---
 
