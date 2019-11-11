@@ -16,31 +16,25 @@ An aspiring Web developer, who loves creating fast and easy to use web applicati
 
 ## 🖥 Work Experience
 
-| **Company Name**    | Tata Consultancy Services                                          |
-| ------------------- | ------------------------------------------------------------------ |
-| **Dates**           | June 2019 - Present                                                |
-| **Position**        | Systems Engineer                                                   |
-| **Responsiblities** | Develop Flexibe and customizable UI in **`React`** and **`Redux`** |
+> Tata Consultancy Services <br>
+> June 2019 - Present <br>
+> Systems Engineer <br>
+> Develop Flexibe and customizable UI in **`React`** and **`Redux`**
 
-| **Company Name**    | Tata Consultancy Services                        |
-| ------------------- | ------------------------------------------------ |
-| **Dates**           | December 2018 - june 2019                        |
-| **Position**        | Assistant Systems Engineer                       |
-| **Responsiblities** | Develop mobile application using ionic Framework |
+> Tata Consultancy Services <br>
+> December 2018 - june 2019 <br>
+> Assistant Systems Engineer <br>
+> Develop mobile application using ionic Framework
 
-| **Company Name**    | Tata Consultancy Services                                                               |
-| ------------------- | --------------------------------------------------------------------------------------- |
-| **Dates**           | December 2016 - December 2018                                                           |
-| **Position**        | Assistant Systems Engineer                                                              |
-| **Responsiblities** | Enhancing and maintaining one of the largest PLM tool developed using ENOVIA Framework. |
+> Tata Consultancy Services <br>
+> December 2016 - December 2018 <br>
+> Assistant Systems Engineer <br>
+> Enhancing and maintaining one of the largest PLM tool developed using ENOVIA Framework.
 
-| **Company Name**    | Baabtra.com                 |
-| ------------------- | --------------------------- |
-| **Dates**           | September 2016 - March 2016 |
-| **Position**        | Intern                      |
-| **Responsiblities** | Django MongoDB Developer    |
-
----
+> Baabtra.com <br>
+> September 2016 - March 2016 <br> I
+> ntern <br>
+> Django MongoDB Developer
 
 ## 🎓 Education and Training
 
