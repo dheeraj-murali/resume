@@ -8,7 +8,7 @@
 
 ---
 
-## About
+## 💁‍♂️ About Me
 
 An aspiring Web developer, who loves creating fast and easy to use web applications.
 
@@ -57,7 +57,7 @@ An aspiring Web developer, who loves creating fast and easy to use web applicati
 
 ---
 
-## Socical and Volunteer Experience
+## 😇 Socical and Volunteer Experience
 
 > [**Anbodu Kochi**](https://www.facebook.com/AnboduKochi/) <br>
 > Volunteer <br>
@@ -73,5 +73,3 @@ An aspiring Web developer, who loves creating fast and easy to use web applicati
 > Volunteer <br>
 > May 2012 – March 2016 <br>
 > Social Service <br>
-
----
