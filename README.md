@@ -1,7 +1,3 @@
-# Dheeraj M
-
-### Front-end Developer
-
 Palakkad, Kerala 679303
 +91 9446079654
 410dheeraj@gmail.com
