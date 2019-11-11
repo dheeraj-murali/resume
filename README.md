@@ -80,3 +80,11 @@ JDT Islam College of Arts and Science
 > Volunteer <br>
 > May 2012 – March 2016 <br>
 > Social Service <br>
+
+---
+
+**Declaration :**
+
+_I hereby declare that the above-mentioned information is correct up to my knowledge and <br> I bear the responsibility for the correctness of the above-mentioned particulars._
+
+_Dheeraj M_
