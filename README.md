@@ -1,4 +1,4 @@
-![Me](0.jpeg){:height="200px" width="200px"}.
+![Me](0.jpeg)
 
 🏡 Palakkad, Kerala 679303
 
@@ -59,19 +59,19 @@ An aspiring Web developer, who loves creating fast and easy to use web applicati
 
 ## Socical and Volunteer Experience
 
-> [**Anbodu Kochi**](https://www.facebook.com/AnboduKochi/)
-> Volunteer
-> Aug 2018 – Aug 2018
-> Disaster and Humanitarian Relief
+> [**Anbodu Kochi**](https://www.facebook.com/AnboduKochi/) <br>
+> Volunteer <br>
+> Aug 2018 – Aug 2018 <br>
+> Disaster and Humanitarian Relief <br>
 
-> [National Service Scheme](https://nss.gov.in/)
-> Volunteer
-> May 2012 – March 2016
-> Social Service
+> [**National Service Scheme**](https://nss.gov.in/) <br>
+> Volunteer <br>
+> May 2012 – March 2016 <br>
+> Social Service <br>
 
-> [Pain and Palliative care](https://getpalliativecare.org/)
-> Volunteer
-> May 2012 – March 2016
-> Social Service
+> [**Pain and Palliative care**](https://getpalliativecare.org/) <br>
+> Volunteer <br>
+> May 2012 – March 2016 <br>
+> Social Service <br>
 
 ---
