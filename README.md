@@ -47,6 +47,9 @@ JDT Islam College of Arts and Science
 
 ## 🤸 Skills and Competences
 
+**Design**
+: UI / UX Design, Prototyping using `Figma`
+
 **Web technologies**
 : HTML, CSS, JS, Bootstrap, `React.js`, `Redux`
 
@@ -54,7 +57,7 @@ JDT Islam College of Arts and Science
 : Angular 6, Electron, Ionic
 
 **Development tools**
-: VS Code, Atom
+: VS Code
 
 **Code version control**
 : git
