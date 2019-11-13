@@ -12,7 +12,7 @@ An aspiring Web developer, who loves creating fast and easy to use web applicati
 
 ---
 
-## 🖥 Work Experience
+## ⌨️ Work Experience
 
 > [**Tata Consultancy Services**](https://www.tcs.com/) <br>
 > June 2019 - Present <br>
