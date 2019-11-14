@@ -8,7 +8,7 @@
 
 ## 💁‍♂️ About Me
 
-An aspiring Web developer, who loves creating fast and easy to use web applications.
+Web designer and front end developer, who loves crafting fast and easy to use web applications.
 
 ---
 
