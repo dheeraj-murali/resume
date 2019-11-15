@@ -56,11 +56,7 @@ JDT Islam College of Arts and Science
 **Frameworks**
 : Angular 6, Electron, Ionic
 
-**Development tools**
-: VS Code
 
-**Code version control**
-: git
 
 **Languages Spoken**
 : English, Hindi, malayalam
