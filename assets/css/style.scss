@@ -10,8 +10,7 @@
 	}
 
 	.page-header {
-		padding: 0px;
-		margin: 0px;
+		padding: 3rem 4rem;
 	}
 
 	.main-content {
@@ -24,5 +23,6 @@
 
 	#-education-and-training {
 		page-break-before: always;
+		margin-block-start: 2rem;
 	}
 }
