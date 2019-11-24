@@ -83,7 +83,7 @@ JDT Islam College of Arts and Science
 
 ---
 
-#### Declaration :
+#### **Declaration** :
 
 _I hereby declare that the above-mentioned information is correct up to my knowledge and <br> I bear the responsibility for the correctness of the above-mentioned particulars._
 
