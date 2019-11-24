@@ -1,0 +1,12 @@
+---
+---
+
+@import '{{ site.theme }}';
+
+@media print {
+	body {
+		padding: 30px;
+		margin: 10px;
+		text-align: center;
+	}
+}
