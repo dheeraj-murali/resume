@@ -53,10 +53,11 @@ JDT Islam College of Arts and Science
 **Web technologies**
 : HTML, CSS, JS, Bootstrap, `React.js`, `Redux`
 
+**Testing**
+: Jest, Enzyme, React-testing-library
+
 **Frameworks**
-: Angular 6, Electron, Ionic
-
-
+: Angular 6, Electron, Ionic, Nodejs
 
 **Languages Spoken**
 : English, Hindi, malayalam
