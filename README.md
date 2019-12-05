@@ -1,18 +1,18 @@
-🏡 Palakkad, Kerala 679303
+Palakkad, Kerala 679303
 
-📞 +91 9446079654
++91 9446079654
 
-📧 410dheeraj@gmail.com
+410dheeraj@gmail.com
 
 ---
 
-## 💁‍♂️ About Me
+## About Me
 
 Web designer and front end developer, who loves crafting fast and easy to use web applications.
 
 ---
 
-## ⌨️ Work Experience
+## Work Experience
 
 > [**Tata Consultancy Services**](https://www.tcs.com/) <br>
 > June 2019 - Present <br>
@@ -36,7 +36,7 @@ Web designer and front end developer, who loves crafting fast and easy to use we
 
 ---
 
-## 🎓 Education and Training
+## Education and Training
 
 **Bachelor of Computer Applications** <br>
 2013 - 2106 <br>
@@ -45,7 +45,7 @@ JDT Islam College of Arts and Science
 
 ---
 
-## 🤸 Skills and Competences
+## Skills and Competences
 
 **Design**
 : UI / UX Design, Prototyping using `Figma`
@@ -64,7 +64,7 @@ JDT Islam College of Arts and Science
 
 ---
 
-## 😇 Socical and Volunteer Experience
+## Socical and Volunteer Experience
 
 > [**Anbodu Kochi**](https://www.facebook.com/AnboduKochi/) <br>
 > Volunteer <br>
